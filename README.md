@@ -1,2 +1,1 @@
-# EDD_listas
-code JAVA with list doubly linked list and iterator.
+Código JAVA com lista duplamente ligada, com iterador.
